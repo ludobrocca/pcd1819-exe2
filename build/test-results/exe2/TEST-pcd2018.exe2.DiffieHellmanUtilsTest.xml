@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pcd2018.exe2.DiffieHellmanUtilsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-01-01T15:45:53" hostname="ludovico-SVF1521G6EW" time="0.482">
+  <properties/>
+  <testcase name="primeTest()" classname="pcd2018.exe2.DiffieHellmanUtilsTest" time="0.022"/>
+  <testcase name="searchTest()" classname="pcd2018.exe2.DiffieHellmanUtilsTest" time="0.45"/>
+  <testcase name="isPrimeRootTest()" classname="pcd2018.exe2.DiffieHellmanUtilsTest" time="0.002"/>
+  <testcase name="modPowTest()" classname="pcd2018.exe2.DiffieHellmanUtilsTest" time="0.001"/>
+  <testcase name="exchangeTest()" classname="pcd2018.exe2.DiffieHellmanUtilsTest" time="0.001"/>
+  <system-out><![CDATA[81bf11
+a 42 b 123 A 4894142 B 2292550
+7955249
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

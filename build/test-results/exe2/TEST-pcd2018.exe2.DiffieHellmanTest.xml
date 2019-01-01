@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pcd2018.exe2.DiffieHellmanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-01-01T15:45:53" hostname="ludovico-SVF1521G6EW" time="96.029">
+  <properties/>
+  <testcase name="exer2()" classname="pcd2018.exe2.DiffieHellmanTest" time="96.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
